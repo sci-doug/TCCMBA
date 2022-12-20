@@ -1,0 +1,178 @@
+"","iso_a3","name","sovrgnt","contnnt","area","pop_est","pp_st_d","economy","incm_gr","gdp_cp_","life_xp","wll_bng","fotprnt","ineqlty","HPI"
+"0","AFG","Afghanistan","Afghanistan","Asia",652860,28400000,43.5009037159575,"7. Least developed region","5. Low income",784.154929577465,59.668,3.8,0.79,0.426557441321005,20.2253497709571
+"1","AGO","Angola","Angola","Africa",1246700,12799293,10.2665380604797,"7. Least developed region","3. Upper middle income",8617.6634912569,NA,NA,NA,NA,NA
+"2","ALB","Albania","Albania","Europe",27400,3639453,132.826751824818,"6. Developing region","4. Lower middle income",5992.65878691111,77.347,5.5,2.21,0.165133717343957,36.76687443911
+"3","ARE","United Arab Emirates","United Arab Emirates","Asia",71252.1720499733,4798491,67.3451890931064,"6. Developing region","2. High income: nonOECD",38407.907819354,NA,NA,NA,NA,NA
+"4","ARG","Argentina","Argentina","South America",2736690,40913584,14.9500250302373,"5. Emerging region: G20","3. Upper middle income",14027.1260518267,75.927,6.5,3.14,0.164238301077711,35.1902436422946
+"5","ARM","Armenia","Armenia","Asia",28470,2967004,104.215103617843,"6. Developing region","4. Lower middle income",6326.24694809983,74.446,4.3,2.23,0.216648103296311,25.6664172884369
+"6","ATA","Antarctica","Antarctica","Antarctica",12259213.972834,3802,0.000310134076167,"6. Developing region","2. High income: nonOECD",2e+05,NA,NA,NA,NA,NA
+"7","ATF","Fr. S. Antarctic Lands","France","Seven seas (open ocean)",7257.45459081207,140,0.019290509950588,"6. Developing region","2. High income: nonOECD",114285.714285714,NA,NA,NA,NA,NA
+"8","AUS","Australia","Australia","Oceania",7682300,21262641,2.76774416515887,"2. Developed region: nonG7","1. High income: OECD",37634.0831790369,82.052,7.2,9.31,0.08067824767106,21.2289663082594
+"9","AUT","Austria","Austria","Europe",82523,8210281,99.4908207408844,"2. Developed region: nonG7","1. High income: OECD",40132.6093467446,81.004,7.4,6.06,0.071293505128626,30.4782243266125
+"10","AZE","Azerbaijan","Azerbaijan","Asia",82663,8238672,99.6657754981068,"6. Developing region","3. Upper middle income",9420.20752859199,NA,NA,NA,NA,NA
+"11","BDI","Burundi","Burundi","Africa",25680,8988091,350.003543613707,"7. Least developed region","5. Low income",345.123341541602,55.803,3.43333333333328,0.8,0.477427120237918,15.5761588010483
+"12","BEL","Belgium","Belgium","Europe",30280,10414336,343.934478203435,"2. Developed region: nonG7","1. High income: OECD",37381.1638111158,80.429,6.9,7.44,0.085372802720384,23.7265234270859
+"13","BEN","Benin","Benin","Africa",112760,8791832,77.9694217807733,"7. Least developed region","5. Low income",1459.30904958148,59.167,3.2,1.41,0.444113291502355,13.4223647851127
+"14","BFA","Burkina Faso","Burkina Faso","Africa",273600,15746232,57.5520175438596,"7. Least developed region","5. Low income",1131.69931701756,57.955,4,1.21,0.432492610632475,17.8861879374725
+"15","BGD","Bangladesh","Bangladesh","Asia",130170,156050883,1198.82371514174,"7. Least developed region","5. Low income",1435.42923752633,70.843,4.7,0.72,0.273657248991623,38.3906944120402
+"16","BGR","Bulgaria","Bulgaria","Europe",108560,7204687,66.3659450994842,"2. Developed region: nonG7","3. Upper middle income",13012.3626467048,73.913,4.2,3.32,0.192834222505691,20.4407892742715
+"17","BHS","Bahamas","The Bahamas","North America",12621.5029822902,309156,24.4943886979064,"6. Developing region","2. High income: nonOECD",29412.3355199317,NA,NA,NA,NA,NA
+"18","BIH","Bosnia and Herz.","Bosnia and Herzegovina","Europe",51200,4613414,90.1057421875,"6. Developing region","3. Upper middle income",6437.74870410503,76.175,4.8,3.12,0.18604455752215,25.2854968929177
+"19","BLR","Belarus","Belarus","Europe",202910,9648533,47.5508008476665,"6. Developing region","3. Upper middle income",11825.6319380366,70.874,5.7,5.09,0.13190987750517,21.7189160816179
+"20","BLZ","Belize","Belize","North America",22810,307899,13.4984217448488,"6. Developing region","4. Lower middle income",8236.46715318985,69.795,6.14285714285717,2.54818,0.180123167178678,33.8398431520102
+"21","BOL","Bolivia","Bolivia","South America",1083300,9775246,9.02358164866611,"5. Emerging region: G20","4. Lower middle income",4426.48706743544,67.45,6,2.96,0.349805138544444,23.3214926401243
+"22","BRA","Brazil","Brazil","South America",8358140,198739269,23.7779301375665,"3. Emerging region: BRIC","3. Upper middle income",10028.214403868,73.907,6.9,3.11,0.216321529973864,34.3449752476487
+"23","BRN","Brunei","Brunei","Asia",5270,388190,73.6603415559772,"6. Developing region","2. High income: nonOECD",52165.1768463897,NA,NA,NA,NA,NA
+"24","BTN","Bhutan","Bhutan","Asia",38117,691141,18.1320932917071,"7. Least developed region","4. Lower middle income",5098.81485832847,68.748,5.6,2.32167,0.265591391950383,28.6232326944582
+"25","BWA","Botswana","Botswana","Africa",566730,1990876,3.51291796799181,"6. Developing region","3. Upper middle income",13592.0067347238,64.249,4.8,3.83,0.283912852952317,16.6050831860613
+"26","CAF","Central African Rep.","Central African Republic","Africa",622980,4511488,7.24178625317025,"7. Least developed region","5. Low income",708.857033422232,NA,NA,NA,NA,NA
+"27","CAN","Canada","Canada","North America",9093510,33487208,3.6825393055047,"1. Developed region: G7","1. High income: OECD",38820.7938983746,81.654,7.4,8.17,0.088286642443334,23.9418338420356
+"28","CHE","Switzerland","Switzerland","Europe",39516,7604467,192.440201437392,"2. Developed region: nonG7","1. High income: OECD",41646.5743095473,82.6,7.8,5.79,0.059863952579715,34.3309696220419
+"29","CHL","Chile","Chile","South America",743532,16601707,22.3281674494171,"5. Emerging region: G20","3. Upper middle income",14727.4012244644,81.05,6.6,4.36,0.14306822168319,31.6655215529539
+"30","CHN","China","China","Asia",9388211,1338612970,142.58445725176,"3. Emerging region: BRIC","3. Upper middle income",5956.16520882806,75.365,5.1,3.38,0.174994237830939,25.7264201554178
+"31","CIV","Cote d'Ivoire","Ivory Coast","Africa",318000,20617068,64.8335471698113,"6. Developing region","4. Lower middle income",1641.84354438759,50.83,3.82499999999999,1.27,0.446844776676983,14.4385574694784
+"32","CMR","Cameroon","Cameroon","Africa",472710,18879301,39.9384421738487,"6. Developing region","4. Lower middle income",2264.38468246256,54.61,4.2,1.17,0.472751562735342,16.6982371716382
+"33","COD","Dem. Rep. Congo","Democratic Republic of the Congo","Africa",2267050,68692542,30.3004089014358,"7. Least developed region","5. Low income",300.469299854997,60.951,3.9,1.29,0.400589723008391,18.8127124351232
+"34","COG","Congo","Republic of Congo","Africa",341500,4012809,11.7505387994143,"6. Developing region","4. Lower middle income",3825.25059129403,NA,NA,NA,NA,NA
+"35","COL","Colombia","Colombia","South America",1109500,45644023,41.1392726453357,"6. Developing region","3. Upper middle income",8662.68952673168,73.673,6.4,1.87,0.235043952795377,40.6950110203891
+"36","CRI","Costa Rica","Costa Rica","North America",51060,4253877,83.31133960047,"5. Emerging region: G20","3. Upper middle income",11359.0496387178,79.076,7.3,2.84,0.145567694423691,44.7140709773574
+"37","CUB","Cuba","Cuba","North America",104020,11451652,110.090867140934,"5. Emerging region: G20","3. Upper middle income",9448.41844652632,NA,NA,NA,NA,NA
+"38","XTX","N. Cyprus","Northern Cyprus","Asia",3319.69065862718,265100,79.8568382602339,"6. Developing region","3. Upper middle income",13579.781214636,NA,NA,NA,NA,NA
+"39","CYP","Cyprus","Cyprus","Asia",5395.89265813217,531640,98.5267931894019,"6. Developing region","2. High income: nonOECD",42698.0663606952,79.789,6.2,4.21,0.120878131003656,30.7118464289806
+"40","CZE","Czech Rep.","Czech Republic","Europe",77210,10211904,132.261416914907,"2. Developed region: nonG7","1. High income: OECD",25969.6918419915,78.185,6.3,5.19,0.093970134890342,27.2840990880888
+"41","DEU","Germany","Germany","Europe",348900,82329758,235.969498423617,"1. Developed region: G7","1. High income: OECD",35442.8346552409,80.573,6.7,5.3,0.083902882116463,29.8155035855106
+"42","DJI","Djibouti","Djibouti","Africa",23180,516055,22.2629421915444,"7. Least developed region","4. Lower middle income",3652.71143579657,61.311,4.4,2.19,0.416541719597965,16.4283684700393
+"43","DNK","Denmark","Denmark","Europe",42262,5500510,130.152619374379,"2. Developed region: nonG7","1. High income: OECD",37014.7495414062,79.832,7.5,5.51,0.071060884142254,32.6725820877
+"44","DOM","Dominican Rep.","Dominican Republic","North America",48310,9650054,199.752722003726,"6. Developing region","3. Upper middle income",8082.8563239128,73.097,4.8,1.53,0.296085915823961,30.3072130358612
+"45","DZA","Algeria","Algeria","Africa",2381741,34178188,14.3500859245401,"6. Developing region","3. Upper middle income",6814.28752162051,74.313,5.6,2.12,0.244861747889588,33.3005427886154
+"46","ECU","Ecuador","Ecuador","South America",248360,14573101,58.6773272668707,"6. Developing region","3. Upper middle income",7390.32824928613,75.449,6,2.17,0.218878837678628,37.0427157141141
+"47","EGY","Egypt","Egypt","Africa",995450,83082869,83.4626239389221,"5. Emerging region: G20","4. Lower middle income",5340.45111032456,70.742,4.2,2.15,0.233552571678487,23.7810205838117
+"48","ERI","Eritrea","Eritrea","Africa",122980.539381756,5647168,45.9192001302747,"7. Least developed region","5. Low income",698.58024411528,NA,NA,NA,NA,NA
+"49","ESP","Spain","Spain","Europe",500210,40525002,81.0159772895384,"2. Developed region: nonG7","1. High income: OECD",34620.6028564786,82.192,6.3,3.67,0.101492728834622,35.958976738624
+"50","EST","Estonia","Estonia","Europe",42390,1299371,30.6527718801604,"2. Developed region: nonG7","1. High income: OECD",21094.8220331222,76.2,5.4,6.86,0.12232526551436,17.8950217892017
+"51","ETH","Ethiopia","Ethiopia","Africa",1132144.25993032,85237338,75.2884071551501,"7. Least developed region","5. Low income",806.806050184251,62.816,4.6,1.02,0.359282017582689,26.6587499631721
+"52","FIN","Finland","Finland","Europe",303890,5250275,17.2768929546876,"2. Developed region: nonG7","1. High income: OECD",36855.21234602,80.421,7.4,5.87,0.062135036660407,31.2933639514969
+"53","FJI","Fiji","Fiji","Oceania",18270,944720,51.7088122605364,"6. Developing region","4. Lower middle income",3788.42408332628,NA,NA,NA,NA,NA
+"54","FLK","Falkland Is.","United Kingdom","South America",11554.1549922073,3140,0.271763707698034,"2. Developed region: nonG7","1. High income: OECD",33471.3375796178,NA,NA,NA,NA,NA
+"55","FRA","France","France","Europe",635780.898366177,64057792,100.754508612346,"1. Developed region: G7","1. High income: OECD",33220.0023378889,81.767,6.6,5.14,0.085242873185957,30.4135060586438
+"56","GAB","Gabon","Gabon","Africa",257670,1514993,5.87958629254473,"6. Developing region","3. Upper middle income",13934.0577811251,63.335,4,2.02,0.362162124372272,17.4968477287916
+"57","GBR","United Kingdom","United Kingdom","Europe",241930,62262000,257.355433389823,"1. Developed region: G7","1. High income: OECD",31764.2221579776,80.392,6.9,4.94,0.092973913944569,31.9092863230461
+"58","GEO","Georgia","Georgia","Asia",69490,4615807,66.4240466254137,"6. Developing region","4. Lower middle income",4660.07352560452,74.555,4.3,1.58,0.196780434988319,31.0760341304345
+"59","GHA","Ghana","Ghana","Africa",227540,23832495,104.739803990507,"6. Developing region","4. Lower middle income",1435.01551138477,61.012,5.1,1.97,0.375645203000302,21.4346635744484
+"60","GIN","Guinea","Guinea","Africa",245720,10057975,40.932667263552,"7. Least developed region","5. Low income",1053.89007230581,57.657,3.7,1.41,0.418959053126813,15.853580848523
+"61","GMB","Gambia","Gambia","Africa",10120,1782893,176.175197628459,"7. Least developed region","5. Low income",1274.33334473802,NA,NA,NA,NA,NA
+"62","GNB","Guinea-Bissau","Guinea Bissau","Africa",32959.5780453113,1533964,46.5407657188808,"7. Least developed region","5. Low income",589.453207506825,NA,NA,NA,NA,NA
+"63","GNQ","Eq. Guinea","Equatorial Guinea","Africa",28050,650702,23.1979322638146,"7. Least developed region","2. High income: nonOECD",21607.4332029101,NA,NA,NA,NA,NA
+"64","GRC","Greece","Greece","Europe",128900,10737428,83.3004499612102,"2. Developed region: nonG7","1. High income: OECD",31944.3352728419,80.505,5.1,4.38,0.15871124133041,23.6209996212093
+"65","GRL","Greenland","Denmark","North America",2138037.28287826,57600,0.026940596621616,"2. Developed region: nonG7","2. High income: nonOECD",19097.2222222222,NA,NA,NA,NA,NA
+"66","GTM","Guatemala","Guatemala","North America",107160,13276517,123.894335572975,"6. Developing region","4. Lower middle income",5165.51140634249,71.355,5.9,1.89,0.274812322381573,34.2363515681315
+"67","GUY","Guyana","Guyana","South America",196850,772298,3.92328168656337,"6. Developing region","4. Lower middle income",3840.48644435179,NA,NA,NA,NA,NA
+"68","HND","Honduras","Honduras","North America",111890,7792854,69.6474573241577,"6. Developing region","4. Lower middle income",4327.04115847673,72.755,4.6,1.68,0.311081290792994,27.1587707896045
+"69","HRV","Croatia","Croatia","Europe",55960,4489409,80.2253216583274,"2. Developed region: nonG7","2. High income: nonOECD",18352.0815323353,76.961,6,3.92,0.11767176605335,30.1641985271931
+"70","HTI","Haiti","Haiti","North America",27560,9035536,327.849637155298,"7. Least developed region","5. Low income",1272.75238569134,62.077,4.4,0.61,0.369860663721656,28.5671847743462
+"71","HUN","Hungary","Hungary","Europe",90530,9905596,109.417828344195,"2. Developed region: nonG7","1. High income: OECD",19847.3670842219,74.859,4.7,2.92,0.151546331730279,26.3831815154172
+"72","IDN","Indonesia","Indonesia","Asia",1811570,240271522,132.631652102872,"4. Emerging region: MIKT","4. Lower middle income",3806.52685090162,68.507,5.4,1.58,0.206822299391903,35.7160925787762
+"73","IND","India","India","Asia",2973190,1166079220,392.198016272085,"3. Emerging region: BRIC","4. Lower middle income",2827.42368052833,67.269,4.6,1.16,0.313137153462741,29.1754645035129
+"74","IRL","Ireland","Ireland","Europe",68890,4203200,61.0132094643635,"2. Developed region: nonG7","1. High income: OECD",44822.9920060906,80.518,7,5.57,0.084939291694555,30.0165295731525
+"75","IRN","Iran","Iran","Asia",1628760,66429284,40.7851887325327,"5. Emerging region: G20","3. Upper middle income",12670.6167719646,74.784,4.6,2.79,0.230905908303975,23.9920417429014
+"76","IRQ","Iraq","Iraq","Asia",434320,31129225,71.6734780806778,"6. Developing region","4. Lower middle income",3337.69954118678,68.96,4.7,1.88,0.270117369195771,26.5212915696904
+"77","ISL","Iceland","Iceland","Europe",100250,306694,3.05929177057357,"2. Developed region: nonG7","1. High income: OECD",41441.9584341396,82.198,7.6,6.42554080619605,0.050863557347743,31.0787247382566
+"78","ISR","Israel","Israel","Asia",21640,7233701,334.274537892791,"2. Developed region: nonG7","1. High income: OECD",27841.9027825452,81.934,7.1,6.22,0.076216355306671,28.8314755544356
+"79","ITA","Italy","Italy","Europe",294140,58126212,197.614102128238,"1. Developed region: G7","1. High income: OECD",31362.7868955231,82.696,5.8,4.61,0.116598788209229,28.0765246991384
+"80","JAM","Jamaica","Jamaica","North America",10830,2825928,260.935180055402,"6. Developing region","3. Upper middle income",7399.33926129753,75.326,5.55,1.89,0.211465321614207,36.8884351436953
+"81","JOR","Jordan","Jordan","Asia",88780,6342948,71.4456859653075,"6. Developing region","3. Upper middle income",4983.48717347202,NA,NA,NA,NA,NA
+"82","JPN","Japan","Japan","Asia",364560,127078679,348.580971582181,"1. Developed region: G7","1. High income: OECD",34065.5099192525,83.239,6,5.02,0.092846892002072,28.3193480842029
+"83","KAZ","Kazakhstan","Kazakhstan","Asia",2699700,15399437,5.70412897729377,"6. Developing region","3. Upper middle income",11416.0017668178,68.606,5.8,5.55,0.178587883636883,19.0504346361787
+"84","KEN","Kenya","Kenya","Africa",569140,39002772,68.5293108901149,"5. Emerging region: G20","5. Low income",1577.06739408163,60.31,4.5,1.03,0.378988057509721,24.2163516383533
+"85","KGZ","Kyrgyzstan","Kyrgyzstan","Asia",191800,5431747,28.3198488008342,"6. Developing region","5. Low income",2137.43386796182,69.73,5.2,1.91,0.181532473965333,33.0779703859103
+"86","KHM","Cambodia","Cambodia","Asia",176520,14494293,82.1113358259687,"7. Least developed region","5. Low income",1927.65525024228,67.467,3.9,1.21,0.27534974234082,25.6493731636631
+"87","KOR","Korea","South Korea","Asia",97480,48508972,497.629995896594,"4. Emerging region: MIKT","1. High income: OECD",27520.6821533963,81.349,6,5.69,0.11059418520693,24.7903603412613
+"88","UNK","Kosovo","Kosovo","Europe",10895.8054706812,1804838,165.645211348212,"6. Developing region","4. Lower middle income",2965.36309630006,NA,NA,NA,NA,NA
+"89","KWT","Kuwait","Kuwait","Asia",17820,2691158,151.018967452301,"6. Developing region","2. High income: nonOECD",55403.6589453313,NA,NA,NA,NA,NA
+"90","LAO","Lao PDR","Laos","Asia",230800,6834942,29.6141334488735,"7. Least developed region","4. Lower middle income",2045.37214800067,NA,NA,NA,NA,NA
+"91","LBN","Lebanon","Lebanon","Asia",10230,4017095,392.677908113392,"6. Developing region","3. Upper middle income",10968.1249758843,78.797,4.6,3.84,0.189067894903074,21.8977693253808
+"92","LBR","Liberia","Liberia","Africa",96320,3441790,35.7328696013289,"7. Least developed region","5. Low income",443.373942047597,60.229,4.4,1.21,0.383681350839498,22.1822792279788
+"93","LBY","Libya","Libya","Africa",1759540,6310434,3.58641122111461,"6. Developing region","3. Upper middle income",14076.6863261703,NA,NA,NA,NA,NA
+"94","LKA","Sri Lanka","Sri Lanka","Asia",62710,21324791,340.054074310317,"6. Developing region","4. Lower middle income",4308.13132002091,74.601,4.2,1.32,0.169405551558646,33.7917760781665
+"95","LSO","Lesotho","Lesotho","Africa",30360,2130819,70.1850790513834,"7. Least developed region","4. Lower middle income",1545.41516665658,48.947,4.9,1.66,0.421757903562253,16.665136394471
+"96","LTU","Lithuania","Lithuania","Europe",62650,3555179,56.7466719872306,"2. Developed region: nonG7","3. Upper middle income",17813.449055589,72.804,5.8,5.83,0.112707658886466,21.0365656988555
+"97","LUX","Luxembourg","Luxembourg","Europe",2590,491775,189.874517374517,"2. Developed region: nonG7","1. High income: OECD",80056.9366071883,81.111,7,15.82,0.067837363478603,13.1511741958863
+"98","LVA","Latvia","Latvia","Europe",62180,2231503,35.887793502734,"2. Developed region: nonG7","3. Upper middle income",17414.2719055273,73.607,5.1,6.29,0.141063308681966,17.0567288637746
+"99","MAR","Morocco","Morocco","Africa",592469.50186253,34859364,58.8373981958795,"6. Developing region","4. Lower middle income",3918.60276050934,73.389,5,1.68,0.245999023887459,32.6587515619694
+"100","MDA","Moldova","Moldova","Europe",32870,4320748,131.449589291147,"6. Developing region","4. Lower middle income",2469.47982154942,NA,NA,NA,NA,NA
+"101","MDG","Madagascar","Madagascar","Africa",581800,20653556,35.4994087315229,"7. Least developed region","5. Low income",974.650563806058,NA,NA,NA,NA,NA
+"102","MEX","Mexico","Mexico","North America",1943950,111211789,57.2091818205201,"4. Emerging region: MIKT","3. Upper middle income",14054.2654160523,76.411,7.3,2.89,0.187698991170799,40.6972922225765
+"103","MKD","Macedonia","Macedonia","Europe",25220,2066718,81.9475812846947,"6. Developing region","3. Upper middle income",9086.87106804121,75.067,4.6,3.26,0.180863999231962,23.3919079264934
+"104","MLI","Mali","Mali","Africa",1220190,12666987,10.3811594915546,"7. Least developed region","5. Low income",1151.8129765192,NA,NA,NA,NA,NA
+"105","MMR","Myanmar","Myanmar","Asia",653080,48137741,73.7087967783426,"7. Least developed region","5. Low income",1145.25523746534,65.501,4.4,1.43,0.322737739550129,24.7361004004214
+"106","MNE","Montenegro","Montenegro","Europe",13450,672180,49.9762081784387,"6. Developing region","3. Upper middle income",10140.1410336517,75.773,5.2,3.78,0.155863254130761,25.1255753551218
+"107","MNG","Mongolia","Mongolia","Asia",1553560,3041142,1.95753108988388,"6. Developing region","4. Lower middle income",3115.9347376742,68.57,4.9,6.08,0.219085938311453,14.2694713260512
+"108","MOZ","Mozambique","Mozambique","Africa",786380,21669278,27.5557338691218,"7. Least developed region","5. Low income",874.048503138868,54.321,5,0.87,0.42698653869288,23.7063406033553
+"109","MRT","Mauritania","Mauritania","Africa",1030700,3129486,3.0362724362084,"7. Least developed region","5. Low income",2015.66647046831,62.602,4.7,2.54,0.367299244093896,17.9980613946962
+"110","MWI","Malawi","Malawi","Africa",119856.867803367,14268711,119.047921587679,"7. Least developed region","5. Low income",827.685135679039,60.122,4.3,0.81,0.44538135024195,22.1308184382942
+"111","MYS","Malaysia","Malaysia","Asia",328550,25715819,78.2706406939583,"6. Developing region","3. Upper middle income",14944.1089159945,74.428,5.9,3.71,0.101843106680224,30.2917135484187
+"112","NAM","Namibia","Namibia","Africa",823290,2108665,2.56126638244118,"6. Developing region","3. Upper middle income",6283.59649351604,64.014,4.68571428571428,2.48,0.262979133688333,21.5692337303228
+"113","NCL","New Caledonia","France","Oceania",18280,227436,12.4417943107221,"6. Developing region","2. High income: nonOECD",13885.2248544646,NA,NA,NA,NA,NA
+"114","NER","Niger","Niger","Africa",1266700,15306252,12.0835651693376,"7. Least developed region","5. Low income",655.941114781071,60.046,3.8,1.56,0.397602135051193,16.8465645740262
+"115","NGA","Nigeria","Nigeria","Africa",910770,149229090,163.84936921506,"5. Emerging region: G20","4. Lower middle income",2247.551063938,52.112,5.5,1.16,0.442310736973601,22.2468258354304
+"116","NIC","Nicaragua","Nicaragua","North America",120340,5891199,48.9546202426458,"6. Developing region","4. Lower middle income",2850.01406335111,74.322,5.4,1.39,0.24717420664696,38.6882582674237
+"117","NLD","Netherlands","Netherlands","Europe",33690,16715999,496.170940932027,"2. Developed region: nonG7","1. High income: OECD",40201.0074300674,81.212,7.5,5.28,0.043220701209051,35.3154509327685
+"118","NOR","Norway","Norway","Europe",365245,4676305,12.8032005913839,"2. Developed region: nonG7","1. High income: OECD",59106.4954060952,81.281,7.7,4.98,0.068553754890631,36.8270523821674
+"119","NPL","Nepal","Nepal","Asia",143350,28563377,199.256205092431,"7. Least developed region","5. Low income",1088.10663388996,68.824,4.2,0.98,0.271445222987946,30.5127815387208
+"120","NZL","New Zealand","New Zealand","Oceania",263310,4213418,16.0017393946299,"2. Developed region: nonG7","1. High income: OECD",27697.2282360782,81.417,7.2,5.6,0.080785930197124,31.2583395000787
+"121","OMN","Oman","Oman","Asia",309500,3418085,11.0438933764136,"6. Developing region","2. High income: nonOECD",19595.7678056573,76.3,6.9,7.52,0.134064743502085,21.1394263571987
+"122","PAK","Pakistan","Pakistan","Asia",873996.199098376,176242949,201.651848351073,"5. Emerging region: G20","4. Lower middle income",2424.49415664283,65.704,5.1,0.79,0.396460254341976,31.5001080237681
+"123","PAN","Panama","Panama","North America",74340,3360474,45.2041162227603,"6. Developing region","3. Upper middle income",11554.9175503218,77.215,6.9,2.79,0.189978978183019,39.5025772170607
+"124","PER","Peru","Peru","South America",1280000,29546963,23.08356484375,"5. Emerging region: G20","3. Upper middle income",8369.72652654691,74.089,5.8,2.28,0.212018694892542,34.5554615304845
+"125","PHL","Philippines","Philippines","Asia",298170,97976603,328.593094543381,"5. Emerging region: G20","4. Lower middle income",3240.56958782292,67.949,5,1.1,0.263115516950252,34.9910936666988
+"126","PNG","Papua New Guinea","Papua New Guinea","Oceania",452860,6057263,13.3755752329638,"6. Developing region","4. Lower middle income",2180.85296940219,NA,NA,NA,NA,NA
+"127","POL","Poland","Poland","Europe",306190,38482919,125.683134654953,"2. Developed region: nonG7","1. High income: OECD",17355.7520415746,76.926,5.9,4.44,0.111454727986382,27.4711894166189
+"128","PRI","Puerto Rico","United States of America","North America",8870,3971020,447.691093573844,"6. Developing region","2. High income: nonOECD",17685.6324067872,NA,NA,NA,NA,NA
+"129","PRK","Dem. Rep. Korea","North Korea","Asia",120410,22665345,188.234739639565,"7. Least developed region","5. Low income",1764.80878627702,NA,NA,NA,NA,NA
+"130","PRT","Portugal","Portugal","Europe",91605,10707924,116.892353037498,"2. Developed region: nonG7","1. High income: OECD",19483.4218098672,80.33,4.99,3.88,0.163386225567377,24.8473937283447
+"131","PRY","Paraguay","Paraguay","South America",397300,6995655,17.6079914422351,"5. Emerging region: G20","4. Lower middle income",4129.70622479239,72.638,5.8,4.16,0.22390818452618,23.3262227923405
+"132","PSE","Palestine","Israel","Asia",6020,4119083,684.233056478405,"6. Developing region","4. Lower middle income",2901.31808463194,72.552,4.6,1.18965810274744,0.237578859063731,34.4719409632489
+"133","QAT","Qatar","Qatar","Asia",11610,833285,71.7730404823428,"6. Developing region","2. High income: nonOECD",109602.356936702,NA,NA,NA,NA,NA
+"134","ROU","Romania","Romania","Europe",230080,22215421,96.5552025382476,"2. Developed region: nonG7","3. Upper middle income",12216.7389940528,74.327,5.2,2.71,0.194374932844597,28.8014985353354
+"135","RUS","Russia","Russia","Europe",16376870,140041247,8.55116069187824,"3. Emerging region: BRIC","3. Upper middle income",16180.9470319841,69.519,5.6,5.69,0.159163839987817,18.7101781150309
+"136","RWA","Rwanda","Rwanda","Africa",24670,10473282,424.535143899473,"7. Least developed region","5. Low income",926.739106232411,63.056,3.3,0.87,0.372088673719747,19.6283779831701
+"137","ESH","W. Sahara","Western Sahara","Africa",90702.6701900462,40000,0.441001349973373,"7. Least developed region","5. Low income",NA,NA,NA,NA,NA,NA
+"138","SAU","Saudi Arabia","Saudi Arabia","Asia",1926139.03196177,28686633,14.8933345537278,"2. Developed region: nonG7","2. High income: nonOECD",20096.4679263684,NA,NA,NA,NA,NA
+"139","SDN","Sudan","Sudan","Africa",1864152.77717157,25946220,13.9185051342023,"6. Developing region","4. Lower middle income",3394.71414333186,NA,NA,NA,NA,NA
+"140","SSD","S. Sudan","South Sudan","Africa",629573.701275744,10625176,16.8767786495363,"7. Least developed region","5. Low income",1244.87349668373,NA,NA,NA,NA,NA
+"141","SEN","Senegal","Senegal","Africa",192530,13711597,71.2179764192593,"7. Least developed region","4. Lower middle income",1603.02260925551,65.429,3.7,1.21,0.328184956503869,21.8960457072191
+"142","SLB","Solomon Is.","Solomon Islands","Oceania",27990,595613,21.2794926759557,"7. Least developed region","4. Lower middle income",1809.9000525509,NA,NA,NA,NA,NA
+"143","SLE","Sierra Leone","Sierra Leone","Africa",72180,6440053,89.2221252424494,"7. Least developed region","5. Low income",665.36719495942,49.758,4.5,1.24,0.498696144817332,15.2646497406434
+"144","SLV","El Salvador","El Salvador","North America",20720,7185218,346.776930501931,"6. Developing region","4. Lower middle income",6072.18876309668,72.481,5.9,2.07,0.223002528633807,35.6351776532873
+"145","SOL","Somaliland","Somaliland","Africa",168105.113698604,3500000,20.820306551026,"6. Developing region","4. Lower middle income",3500,NA,NA,NA,NA,NA
+"146","SOM","Somalia","Somalia","Africa",473904.396940845,9832017,20.7468364156733,"7. Least developed region","5. Low income",561.837921964537,NA,NA,NA,NA,NA
+"147","SRB","Serbia","Republic of Serbia","Europe",77420.9014007527,7379339,95.3145580390809,"6. Developing region","3. Upper middle income",10887.1539849301,74.495,5.2,2.7,0.190906214408974,29.048312577988
+"148","SUR","Suriname","Suriname","South America",156000,481267,3.08504487179487,"6. Developing region","3. Upper middle income",8839.16827873093,70.788,6.3,4.25,0.189257738789394,25.4471570389773
+"149","SVK","Slovakia","Slovakia","Europe",48086,5463046,113.609907249511,"2. Developed region: nonG7","1. High income: OECD",21874.2437826809,75.872,5.9,4.06,0.128154772375953,28.2288968613446
+"150","SVN","Slovenia","Slovenia","Europe",20140,2005692,99.5874875868918,"2. Developed region: nonG7","1. High income: OECD",29585.798816568,79.953,6.1,5.81,0.102227574031206,24.6388403707364
+"151","SWE","Sweden","Sweden","Europe",407310,9059651,22.2426431956004,"2. Developed region: nonG7","1. High income: OECD",38003.6714438558,81.847,7.6,7.25,0.056707346222905,28.0349251867719
+"152","SWZ","Swaziland","Swaziland","Africa",17200,1123913,65.3437790697674,"6. Developing region","4. Lower middle income",5073.34642450083,48.91,4.9,2.01,0.410458121284458,15.5360352209498
+"153","SYR","Syria","Syria","Asia",183630,20178485,109.886647062027,"6. Developing region","4. Lower middle income",4897.79088965301,70.385,3.2,1.51,0.303824505193861,19.100370522372
+"154","TCD","Chad","Chad","Africa",1259200,10329208,8.20299237611182,"7. Least developed region","5. Low income",1535.45170162127,50.808,4,1.46,0.507342316021184,12.777156207494
+"155","TGO","Togo","Togo","Africa",54390,6019877,110.679849236992,"7. Least developed region","5. Low income",850.183483815367,58.601,2.86666666666666,1.13,0.428742394080363,13.2332692003102
+"156","THA","Thailand","Thailand","Asia",510890,65905410,129.001174421108,"5. Emerging region: G20","3. Upper middle income",8305.84317736586,74.087,6.3,2.66,0.150002728650941,37.2901049946857
+"157","TJK","Tajikistan","Tajikistan","Asia",138786,7349145,52.9530716354676,"6. Developing region","5. Low income",1790.68449459087,69.01,4.5,0.91,0.258963454746077,34.2495973970354
+"158","TKM","Turkmenistan","Turkmenistan","Asia",469930,4884887,10.3949247760305,"6. Developing region","3. Upper middle income",6096.35391770577,65.298,5.5,5.47,0.311073772765678,14.6085442382795
+"159","TLS","Timor-Leste","East Timor","Asia",14870,1131612,76.1003362474781,"7. Least developed region","4. Lower middle income",2226.91169764902,NA,NA,NA,NA,NA
+"160","TTO","Trinidad and Tobago","Trinidad and Tobago","North America",5130,1310000,255.360623781676,"6. Developing region","2. High income: nonOECD",22145.0381679389,70.116,6.4,7.92,0.213840039261616,15.7183467215571
+"161","TUN","Tunisia","Tunisia","Africa",155360,10486339,67.4970326982492,"6. Developing region","3. Upper middle income",7792.04258035145,74.644,4.5,2.34,0.22007923628343,26.1971411303709
+"162","TUR","Turkey","Turkey","Asia",769630,76805524,99.7953873939425,"4. Emerging region: MIKT","3. Upper middle income",11753.0608866102,74.72,5.3,3.33,0.186394064676755,26.4245650782201
+"163","TWN","Taiwan","Taiwan","Asia",36283.9314976401,22974347,633.182404764882,"2. Developed region: nonG7","2. High income: nonOECD",30991.0875812923,NA,NA,NA,NA,NA
+"164","TZA","Tanzania","United Republic of Tanzania","Africa",885800,41048532,46.3406321968842,"7. Least developed region","5. Low income",1321.60633661637,63.544,4,1.32,0.332874685645117,22.1383792939368
+"165","UGA","Uganda","Uganda","Africa",242952.733840322,32369558,133.233973079202,"7. Least developed region","5. Low income",1216.57515372932,57.14,4.3,1.24,0.413861815250749,19.4191016931964
+"166","UKR","Ukraine","Ukraine","Europe",579290,45700395,78.8903571613527,"6. Developing region","4. Lower middle income",7435.3843112297,70.317,5,2.84,0.167264183562613,26.3831624547898
+"167","URY","Uruguay","Uruguay","South America",175020,3494382,19.9656153582448,"5. Emerging region: G20","3. Upper middle income",12351.2540987219,76.891,6.4,2.91,0.17669974980691,36.1342797674399
+"168","USA","United States","United States of America","North America",9147420,313973000,34.3236672198281,"1. Developed region: G7","1. High income: OECD",48074.1974628392,78.807,7,8.22,0.129564256374625,20.7463775775452
+"169","UZB","Uzbekistan","Uzbekistan","Asia",425400,27606007,64.8942336624354,"6. Developing region","4. Lower middle income",2596.1740863139,68.171,6,2.32,0.29820167070347,29.12630723406
+"170","VEN","Venezuela","Venezuela","South America",882050,26814843,30.4005929369083,"5. Emerging region: G20","3. Upper middle income",13328.4390290855,73.885,7.1,3.57,0.189279950998774,33.5699596626624
+"171","VNM","Vietnam","Vietnam","Asia",310070,86967524,280.477066468862,"5. Emerging region: G20","4. Lower middle income",2779.19835914841,75.477,5.5,1.65,0.185920591137127,40.3075893068746
+"172","VUT","Vanuatu","Vanuatu","Oceania",12190,218519,17.9260869565217,"7. Least developed region","4. Lower middle income",4523.63410046724,71.341,6.47,1.86262,0.223331845197466,40.57009898804
+"173","YEM","Yemen","Yemen","Asia",454680.451349438,23822783,52.3945617835488,"7. Least developed region","4. Lower middle income",2320.46776398878,63.34,4.1,1.03,0.387312703344687,22.7542685054209
+"174","ZAF","South Africa","South Africa","Africa",1213090,49052489,40.4359849640175,"5. Emerging region: G20","3. Upper middle income",10009.6857470372,56.285,5.1,3.31,0.332740028927666,15.8689916719392
+"175","ZMB","Zambia","Zambia","Africa",743390,11862740,15.9576265486488,"7. Least developed region","4. Lower middle income",1475.20724554361,58.409,5,0.99,0.408121658873956,25.224246464112
+"176","ZWE","Zimbabwe","Zimbabwe","Africa",386850,12619600,32.6214294946362,"5. Emerging region: G20","5. Low income",738.771434910774,53.673,5,1.37,0.366084608551004,22.1125353988706
